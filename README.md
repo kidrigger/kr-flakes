@@ -1,2 +1,2 @@
-# eastl-nix
-EABase packaged for use on nixos.
+# Kidrigger's Flakes
+Miscellaneous packages and utilities packaged for Nix.
